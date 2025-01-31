@@ -51,7 +51,8 @@ public class Question_hash {
 
 }
 
-/*Design A java Program for university student enrollment,ensuring loose coupling and high cohesion.Create Student  and Course classes,and an enrollment class that interracts
+/*Design A java Program for university student enrollment,ensuring loose coupling and high cohesion.Create Student  and Course classes,
+and an enrollment class that interracts
  * with through an enrollmentSystem interface.
  * Implement methods for enrolling and dropping student from course,and displaying enrollment details.
  * In the mainenrollmentApp class,demonstrate functionality by managing student enrollment.
